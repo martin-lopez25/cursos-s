@@ -1,0 +1,6 @@
+{
+  "name": "Cuaderno de Respuestas",
+  "description": "Plataforma responsiva para organizar, consultar y practicar preguntas y respuestas de cursos en línea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
